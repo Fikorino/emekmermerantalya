@@ -1,0 +1,12 @@
+.admin-sidebar {
+    width: 240px;
+    min-height: 100vh;
+}
+.admin-sidebar .nav-link {
+    color: #4b5563;
+    padding: 0.5rem 1rem;
+}
+.admin-sidebar .nav-link:hover {
+    background: #f1f5f9;
+    color: #111827;
+}

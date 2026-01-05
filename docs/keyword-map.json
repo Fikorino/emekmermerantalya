@@ -1,0 +1,25 @@
+{
+  "anasayfa": [
+    "antalya mermer",
+    "antalya granit",
+    "çimstone antalya",
+    "kuvars tezgah antalya"
+  ],
+  "hizmetler": [
+    "mutfak tezgahı antalya",
+    "granit tezgah antalya",
+    "banyo tezgahı antalya"
+  ],
+  "kategori_sayfalari": {
+    "mermer": ["mermer antalya"],
+    "granit": ["granit antalya"],
+    "cimstone_kuvars": ["çimstone antalya", "kuvars antalya"]
+  },
+  "blog": [
+    "fiyat",
+    "bakım",
+    "seçim rehberi",
+    "ölçü alma",
+    "karşılaştırma"
+  ]
+}

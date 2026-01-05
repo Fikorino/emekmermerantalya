@@ -1,0 +1,16 @@
+body {
+    font-family: "Segoe UI", system-ui, sans-serif;
+}
+.hero-slide {
+    min-height: 420px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 12px;
+}
+.section-title {
+    margin-bottom: 1.5rem;
+}
+.card-hover:hover {
+    transform: translateY(-4px);
+    transition: transform 0.2s ease-in-out;
+}
